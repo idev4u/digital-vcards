@@ -1,5 +1,11 @@
 ## 📥 Anleitung: vCard per Webinterface zu GitHub hochladen
 
+## ✅ Voraussetzung
+
+- Du besitzt einen **GitHub-Account**
+- Du wurdest als **Contributor** (Mitwirkende:r) für das Repository freigeschaltet
+
+
 ### 🔗 1. **Öffne den `cards/`-Ordner im Repo**
 
 Link:
